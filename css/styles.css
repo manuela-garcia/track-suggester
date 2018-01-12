@@ -1,0 +1,7 @@
+h1, h2 {
+  text-align: center;
+}
+
+#yes-intro, #yes-design, #yes-large-company, #yes-android, #yes-government, #yes-startup {
+  display: none;
+}
