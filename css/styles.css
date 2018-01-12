@@ -2,6 +2,10 @@ h1, h2 {
   text-align: center;
 }
 
-#yes-intro, #yes-design, #yes-large-company, #yes-android, #yes-government, #yes-startup {
+body {
+  background-color: gainsboro;
+}
+
+#yes-intro, #yes-design, #yes-large-company, #yes-android, #yes-government, #yes-startup, #no-intro, #no-desing, #no-large-company, #no-android, #no-government, #no-startup {
   display: none;
 }
