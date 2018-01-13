@@ -24,7 +24,7 @@ _If you have any questions, please contact me at manuela.garcia.dev@gmail.com_
 
 ## Technologies Used
 
-_Html, Css, JavaScript. Bootstrap and jQuery frameworks._
+_Html, CSS, JavaScript. Bootstrap and jQuery frameworks._
 
 ### License
 

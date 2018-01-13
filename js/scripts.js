@@ -1,4 +1,5 @@
 $(document).ready(function() {
+
   var introCompleted = confirm("Have you completed Intro to Programming? Click OK for YES or Cancel for NO.");
 
   if (introCompleted) {
@@ -20,5 +21,8 @@ var government = $("input:radio[name=design]:checked").val();
 var startup = $("input:radio[name=design]:checked").val();
 
 // Again: all these variables are not being read at the moment. I would like to continue working on this when we learn about arrays.
+
+
+
 
 });
