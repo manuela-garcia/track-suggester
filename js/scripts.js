@@ -8,21 +8,44 @@ $(document).ready(function() {
     alert("SORRY!! You must complete the Intro to Programming first before you can move on to study any of the programming languages offered by Epidocus");
   }
 
-// the following would be the way to read the value selected. The following commands are not doing anything at the moment.
+  $("button#yes-design-button").click(function() {
+    $('#yes-design').toggle();
+  });
 
-var design = $("input:radio[name=design]:checked").val();
+  $("button#no-design-button").click(function() {
+    $('#no-design').toggle();
+  });
 
-var largeCompany = $("input:radio[name=design]:checked").val();
+  $("button#yes-largeCompany-button").click(function() {
+    $('#yes-largeCompany').toggle();
+  });
 
-var android = $("input:radio[name=design]:checked").val();
+  $("button#no-largeCompany-button").click(function() {
+    $('#no-largeCompany').toggle();
+  });
 
-var government = $("input:radio[name=design]:checked").val();
+  $("button#yes-android-button").click(function() {
+    $('#yes-android').toggle();
+  });
 
-var startup = $("input:radio[name=design]:checked").val();
+  $("button#no-android-button").click(function() {
+    $('#no-android').toggle();
+  });
 
-// Again: all these variables are not being read at the moment. I would like to continue working on this when we learn about arrays.
+  $("button#yes-government-button").click(function() {
+    $('#yes-government').toggle();
+  });
 
+  $("button#no-government-button").click(function() {
+    $('#no-government').toggle();
+  });
 
+  $("button#yes-startup-button").click(function() {
+    $('#yes-startup').toggle();
+  });
 
+  $("button#no-startup-button").click(function() {
+    $('#no-startup').toggle();
+  });
 
 });

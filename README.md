@@ -6,12 +6,14 @@
 
 ## Description
 
-_This website help students decide which programming language they would want to specialized while studying at Epicodus._
+_This website help students decide which programming language they would want to specialize while studying at Epicodus._
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+* _To clone this repository visit: https://github.com/manuela-garcia/track-suggester/tree/master.git_
 * _From the project directory, open the index.html file_
+
+* _To view deployed website visit: https://manuela-garcia.github.io/track-suggester/_
 
 
 ## Known Bugs
